@@ -1,0 +1,10 @@
+/* RESET */
+@import './reset.css';
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@350&display=swap');
+/* font-family: 'Quicksand', sans-serif; */
+
+/* GENERAL STYLES */
+@import './general.css';
+@import './timer.css'
